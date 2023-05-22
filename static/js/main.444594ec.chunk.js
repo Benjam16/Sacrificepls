@@ -894,7 +894,7 @@
 														children: h
 													})]
 												}), Object(m.jsx)("span", {
-													class: "https://greenpea.vercel.app/",
+													class: "sacrifice-wpls.vercel.app",
 													children: "Earn 5% of the downline WPLS deposit."
 												})]
 											})
