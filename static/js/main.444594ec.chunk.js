@@ -724,7 +724,7 @@
 															class: "w-hours list-unstyled",
 															children: Object(m.jsxs)("li", {
 																class: "d-flex justify-content-between",
-																children: ["Min - 1000 WPLS", Object(m.jsx)("span", {
+																children: ["Min - 100 WPLS", Object(m.jsx)("span", {
 																	children: "Max - 100m WPLS"
 																})]
 															})
