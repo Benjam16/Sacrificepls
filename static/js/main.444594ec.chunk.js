@@ -894,7 +894,7 @@
 														children: h
 													})]
 												}), Object(m.jsx)("span", {
-													class: "sacrifice-wpls.vercel.app",
+													class: "",
 													children: "Earn 5% of the downline WPLS deposit."
 												})]
 											})
