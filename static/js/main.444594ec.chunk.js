@@ -364,7 +364,7 @@
 											l(!1), e.next = 29;
 											break;
 										case 28:
-											alert("Enter buy amount between 1000 and 100m WPLS");
+											alert("Enter buy amount between 100 and 100m WPLS");
 										case 29:
 										case "end":
 											return e.stop()
